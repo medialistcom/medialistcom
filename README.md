@@ -1,16 +1,17 @@
-## Hi there 👋
+# Media List
 
-<!--
-**medialistcom/medialistcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Media List is a media contact database for PR agencies, publicists and entrepreneurs.
 
-Here are some ideas to get you started:
+Search 1,400,000+ media contacts, from newsroom journalists, editors and producers to podcast hosts, YouTubers, newsletter writers and bloggers. Save the right people to lists, export them, and pitch them from your own inbox with automatic follow-ups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Plans start at $99 a month, and every plan has a 3-day free trial.
+
+Website https://medialist.com
+
+Pricing https://medialist.com/pricing
+
+Journalists and newsrooms https://medialist.com/media
+
+Creators and podcast hosts https://medialist.com/social
+
+Support support@medialist.com
